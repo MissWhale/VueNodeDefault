@@ -1,8 +1,7 @@
 # Express Generator with Vue-CLI
 
 ```
-git clone https://github.com/ChangJoo-Park/express-generator-with-vue-cli sample-app
-cd sample-app
+git clone https://github.com/MissWhale/VueNodeDefault
 cd backend 
 npm install 
 cd ..
